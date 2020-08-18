@@ -1,0 +1,28 @@
+/* buttons */
+
+.button.primary-button{
+    font-family: 'SF-Pro-Display-Bold';
+    padding:.8rem 1.6rem;
+    border: 3px solid transparent;
+    border-radius: 15px;
+    background: #DB00FF;
+    color: white;
+    transition: box-shadow .6s ease;
+}
+
+.button.primary-button:hover{
+    box-shadow: var(--button-shadow);
+}
+
+.icon{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 50%;
+    transform: translate(-50%, -50%);
+    width: 10px;
+    height: 10px;
+    display: block;
+    background: red;
+}
+
