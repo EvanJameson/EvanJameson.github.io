@@ -27,6 +27,7 @@ html {
     padding-top: 1rem;
     padding-left: 20rem;
     padding-right: 15rem;
+    position: relative;
     box-shadow: var(--heavy-shadow);
     border-bottom-left-radius: 75px;
     border-bottom-right-radius: 75px;
