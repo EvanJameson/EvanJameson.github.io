@@ -11,6 +11,15 @@ html {
     scroll-behavior: smooth;
 }
 
+body {
+  background-color: #f8d6ff;
+}
+
+.site-main{
+    padding-left: 15rem;
+    padding-right: 15rem;
+}
+
 /* start navigation */
 
 .header-area{
@@ -18,7 +27,6 @@ html {
     padding-left: 5rem;
 }
 
-/* this do anything? */
 .header-area .main-menu .navbar .navbar-brand{
     padding-right: 8rem;
 }
@@ -138,11 +146,6 @@ html {
 
 
 /* start projects*/
-
-.site-main{
-    padding-left: 15rem;
-    padding-right: 15rem;
-}
 
 .site-main .project-area{
     padding-top: 10rem;
