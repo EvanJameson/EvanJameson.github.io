@@ -11,6 +11,10 @@ html {
     scroll-behavior: smooth;
 }
 
+body {
+  background-color: #ededed;
+}
+
 .site-main{
     padding-left: 15rem;
     padding-right: 15rem;
